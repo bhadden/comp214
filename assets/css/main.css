@@ -3963,10 +3963,6 @@ input, select, textarea {
 
 /* videos */
 
-#videoal {
-    /* ... put any margin, padding, etc. here you like */
-}
-
 #videoal div.video {
     display: inline-block;
     zoom: 1;
@@ -3981,9 +3977,6 @@ input, select, textarea {
     height: 100%;
 }
 
-#videoal2 {
-    /* ... put any margin, padding, etc. here you like */
-}
 
 #videoal2 div.video {
     display: inline-block;
